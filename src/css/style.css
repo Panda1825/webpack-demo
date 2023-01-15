@@ -1,0 +1,12 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.box1 {
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    background: url(../images/th.png) no-repeat;
+    background-size: cover;
+}
